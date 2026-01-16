@@ -165,7 +165,7 @@ See [LICENSE](LICENSE) for full details.
 
 **ArushSengar**
 
-- GitHub: [@ArushSengar](https://github.com/ArushSengar)
+- GitHub: [@ArushSengar](https://github.com/ArushRajput)
 - Created: 2026
 
 ---
@@ -180,3 +180,4 @@ If this tool boosted your productivity, consider:
 ---
 
 **Made with ❤️ for Power Users**
+
